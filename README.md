@@ -14,14 +14,10 @@ Here are some ideas to get you started and add to this comment section:
 -->
 
 # Computer Languages: Java
+## Unlock Your Fitness Potential with JavaTrainer
+Whether you’re new to working out or an experienced fitness enthusiast seeking fresh ideas, JavaTrainer is your ultimate companion. No matter where you are on your fitness journey, JavaTrainer provides tailored guidance to help you maximize your gym time and achieve your goals efficiently. Let JavaTrainer be the smart assistant that empowers your workouts and keeps you on track!
 
-## Group Project (this is where I'd like for the project name to go)
 
-## Project Description
-
-So far, we have a few classes and a basic understanding of what they do. 
-The CreateHash is what deals with the login information,
-whether they're creating a new account or logging back into their account
 
 The Frame class is the GUI interface.
 ## Group Members and Respective Roles
