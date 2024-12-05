@@ -17,9 +17,6 @@ Here are some ideas to get you started and add to this comment section:
 ## Unlock Your Fitness Potential with JavaTrainer
 Whether you’re new to working out or an experienced fitness enthusiast seeking fresh ideas, JavaTrainer is your ultimate companion. No matter where you are on your fitness journey, JavaTrainer provides tailored guidance to help you maximize your gym time and achieve your goals efficiently. Let JavaTrainer be the smart assistant that empowers your workouts and keeps you on track!
 
-
-
-The Frame class is the GUI interface.
 ## Group Members and Respective Roles
 
 1. Justin Eugene - Workout Regime Recommendation
